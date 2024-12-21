@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋  [![](https://visitcount.itsvg.in/api?id=21BQ1A1282&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **ML/DL Projects**
 - 🌱 I’m currently learning **Spring Boot v3**
@@ -7,6 +7,9 @@
 - 📫 How to reach me: **madhavarapu.saimanikanta@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My programs run faster than me on a Monday morning. ☕🏃‍♂️
+
+## About Me
+I'm a passionate and enthusiastic student currently pursuing Information Technology at VVIT. With a strong interest in backend development/Java Development, I'm eager to build scalable and efficient systems that power amazing applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saimanikanta697/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saimanikantamadhavarapu/) 
@@ -22,6 +25,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=21BQ1A1282&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=21BQ1A1282&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
