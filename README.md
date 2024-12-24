@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋 I'm Sai Manikanta Madhavarapu</h1>  
+## <h1 align="center" size="18">Hi 👋 I'm Sai Manikanta Madhavarapu</h1>  
 ## :dart: About Me [![](https://visitcount.itsvg.in/api?id=21BQ1A1282&icon=0&color=0)](https://visitcount.itsvg.in)
 I'm a passionate and enthusiastic student currently pursuing Information Technology at VVIT. With a strong interest in backend development/Java Development, I'm eager to build scalable and efficient systems that power amazing applications.
 
