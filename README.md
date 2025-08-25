@@ -1,13 +1,14 @@
 ## <h1 align="center" size="18">Hi 👋 I'm Sai Manikanta Madhavarapu</h1>  
 ## :dart: About Me [![](https://visitcount.itsvg.in/api?id=21BQ1A1282&icon=0&color=0)](https://visitcount.itsvg.in)
-I'm a passionate and enthusiastic student currently pursuing Information Technology at VVIT. With a strong interest in backend development/Java Development, I'm eager to build scalable and efficient systems that power amazing applications.
+I'm a passionate and results-driven Information Technology graduate from VVIT with hands-on project experience and a strong problem-solving mindset. I recently completed my Bachelor of Technology in June 2025 and I'm actively seeking full-time opportunities or internships where I can contribute to impactful teams and grow across domains such as backend development, data, or cloud technologies.
 
 Check out my [portfolio](https://saimanikanta-msmk.netlify.app/)
 
-- 🔭 I’m currently working on **ML/DL Projects**
-- 🌱 I’m currently learning **Spring Boot v3**
-- 👯 I’m looking to collaborate on **Backend Dev Projects**
-- 💬 Ask me about **Technology Development**
+- 🔭 I'm currently working on **PocketPulse v1.0** - a financial tracking application for managing income, savings, and expenditures
+- 🌱 I'm currently learning **cloud technologies**
+- 👯 I'm looking to collaborate on **Backend Development Projects**
+- 🤝 I'm seeking job opportunities or internships in **software development**
+- 💬 Ask me about Java Development, Spring Boot, REST APIs, and Database Management
 - 📫 How to reach me: **madhavarapu.saimanikanta@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My programs run faster than me on a Monday morning. ☕🏃‍♂️
@@ -24,6 +25,18 @@ Check out my [portfolio](https://saimanikanta-msmk.netlify.app/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=21BQ1A1282&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🏆 Achievements
+- Published research paper on final year project
+- LeetCode Contest Rating: 1440
+= GeeksforGeeks Contest Rating: 1586
+- Google Cloud Certified Associate Cloud Engineer (2024)
+-HackerRank Problem Solving Certification
+
+### 📈 Education
+- Vasireddy Venkatadri Institute of Technology
+- Bachelor of Technology - Information Technology (CGPA: 8.31)
+- Graduated: June 2025
 
 ---
 
