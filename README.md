@@ -2,7 +2,7 @@
 ## :dart: About Me [![](https://visitcount.itsvg.in/api?id=21BQ1A1282&icon=0&color=0)](https://visitcount.itsvg.in)
 I'm a passionate and results-driven Information Technology graduate from VVIT with hands-on project experience and a strong problem-solving mindset. I recently completed my Bachelor of Technology in June 2025 and I'm actively seeking full-time opportunities or internships where I can contribute to impactful teams and grow across domains such as backend development, data, or cloud technologies.
 
-Check out my [portfolio](https://saimanikanta-msmk.netlify.app/)
+Check out my [portfolio](https://saimanikanta-portfolio.vercel.app/)
 
 - 🔭 I'm currently working on **PocketPulse v1.0** - a financial tracking application for managing income, savings, and expenditures
 - 🌱 I'm currently learning **cloud technologies**
