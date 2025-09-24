@@ -4,11 +4,11 @@ I'm a passionate and results-driven Information Technology graduate from VVIT wi
 
 Check out my [portfolio](https://saimanikanta-portfolio.vercel.app/)
 
-- 🔭 I'm currently working on **PocketPulse v1.0** - a financial tracking application for managing income, savings, and expenditures
-- 🌱 I'm currently learning **cloud technologies**
-- 👯 I'm looking to collaborate on **Backend Development Projects**
-- 🤝 I'm seeking job opportunities or internships in **software development**
-- 💬 Ask me about Java Development, Spring Boot, REST APIs, and Database Management
+- 🔭 I'm currently working on **Spring Boot + React** projects
+- 🌱 I'm currently learning **Cloud technologies**
+- 👯 I'm looking to collaborate on **Backend Dev/ FullStack Dev Projects**
+- 🤝 I'm seeking job opportunities or internships in **Software Dev / Java Dev/ FullStack Dev**
+- 💬 Ask me about Java Development, Spring Boot, REST APIs, React and Database Management
 - 📫 How to reach me: **madhavarapu.saimanikanta@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My programs run faster than me on a Monday morning. ☕🏃‍♂️
